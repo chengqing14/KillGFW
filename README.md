@@ -11,7 +11,13 @@
      二維碼可以在網路自己找，這裏會不定期搜集網路上可用服務。
      
      ### 這些服務不是我的，最好自己找代理服務。
+     
+# 5. 打開第壹個滑塊開關，屏幕上方顯示 “vpn” 字樣，如果提示 vpn 授權，請確認。
+
+# 6. 打開 www.google.com 測試。
 
 ## host
 
 ![HonKong server](./imgs/qr1.png)
+
+![Canada server](./imgs/qr2.png)
