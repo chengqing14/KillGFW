@@ -1,6 +1,6 @@
 # 1. 下載 shadowsocks (影梭) android版
  從[這裏下載](https://github.com/shadowsocks/shadowsocks-android/releases)
- 下載最新到 apk 文件就可以。
+ 下載最新 apk 文件就可以。
 
 # 2. 安裝 shadowsock 到智慧手機。
 
