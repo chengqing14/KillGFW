@@ -17,7 +17,7 @@
 # 6. 打開 www.google.com 測試。
 
 ## host 1
-![HonKong server](./imgs/qr1.png)
+![HonKong server](./imgs/qr5.png)
 
 ## host 2
 ![Canada server](./imgs/qr2.png)
@@ -29,4 +29,4 @@
 ![Canada server](./imgs/qr4.png)
 
 ## host 5
-![Canada server](./imgs/qr5.png)
+![Canada server](./imgs/qr1.png)
