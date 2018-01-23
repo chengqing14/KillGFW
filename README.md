@@ -1,11 +1,14 @@
-# 1. download shadowsocks for android
-download form [here](https://github.com/shadowsocks/shadowsocks-android/releases)
+# 1. 下載 shadowsocks (影梭) android版
+ 從[這裏下載](https://github.com/shadowsocks/shadowsocks-android/releases)
+ 下載最新到 apk 文件就可以。
 
-# 2. install it to your android phone.
+# 2. 安裝 shadowsock 到智慧手機。
 
-# 3. open shadowsocks
+# 3. 打開 “影梭” ，如果系統語言是英文，則打開 “shadowsocks”。
 
-# 4. press "+" that in the top right corner of screen， then scan QR images below
+# 4. 點擊屏幕右上角的加號，選擇“掃描二維碼”，掃描 shadowsock 代理二維碼。
+     二維碼可以在網上自己找，這裏會不定期搜集網路上可用服務。
+     ### 這些服務不是我的，最好自己找代理服務。
 
 ## host
 free hosts
