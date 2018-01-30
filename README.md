@@ -16,13 +16,13 @@
 # 6. 打開 www.google.com 測試。
 
 ## host 1
-![HonKong server](./imgs/ss1.png)
+![HonKong server](./imgs/ss1.gif)
 
 ## host 2
-![Canada server](./imgs/ss2.png)
+![Canada server](./imgs/ss2.gif)
 
 ## host 3
-![Canada server](./imgs/ss3.png)
+![Canada server](./imgs/ss3.gif)
 
 ## host 4
-![Canada server](./imgs/ss4.png)
+![Canada server](./imgs/ss4.gif)
